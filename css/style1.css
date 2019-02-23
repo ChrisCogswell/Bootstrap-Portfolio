@@ -1,4 +1,5 @@
 .navbar-brand {
+    font-family: 'Raleway', sans-serif;
     font-size: 40px;
     float: left;
     margin-left: 250px;
@@ -15,4 +16,15 @@ body {
     width: 700px;
     margin: 65px 0px 0px 368px;
     background-color: #343a3f;
+}
+
+.card-footer {
+    margin-top: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    border-bottom: 3px solid orange;
 }
