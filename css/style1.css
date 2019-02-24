@@ -26,6 +26,8 @@ h1 {
 
 .img-thumbnail {
     border: 5px solid orange;
+    margin-top: 5px;
+    z-index: 1;
 }
 
 p {
